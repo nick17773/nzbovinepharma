@@ -1,14 +1,9 @@
-.cam img
-{
-    width: 10%;
-    height: 10%;
-        
-}
+
 
 .navigation {
-    background: #2e4e29;
+    background: #443C29;
     padding: 1vmax;
-    padding-left: 4.5vmax;
+    padding-left: 7.75vmax;
     overflow: auto;
     
     
@@ -144,7 +139,7 @@ html
 {
     width: 99%;
     height: 99%;
-    display:    block;
+    display: block;
     padding: 0px;
     
 }
